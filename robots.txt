@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /killer-clicker-playtest.html
 Sitemap: https://www.thepenismysword.com/sitemap.xml
